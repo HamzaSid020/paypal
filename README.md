@@ -1,4 +1,4 @@
-##Paypal integration with Chatbot
+# Paypal integration with Chatbot
 
 I got the user interface for the web from Pat Wilken. Click Below:
 <a href="https://github.com/tonazih/Week4" target="_blank">ES6 Order Bot</a>
